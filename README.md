@@ -8,7 +8,6 @@ Debido a que este curso se compone de múltiples partes y títulos aquí estará
 - [Gestión de errores en una aplicación web con Spring Boot](https://openwebinars.net/cert/k1E1)
 - [Validación de datos en tu aplicación web con Spring Boot](https://openwebinars.net/cert/3pSM)
 - [Paginación de resultados en tu aplicación web con Spring Boot](https://openwebinars.net/cert/Mnwh)
-- [Curso de Introducción a Thymeleaf](https://openwebinars.net/cert/wOVQ)
 - [Paginación de resultados en tu API REST con Spring Boot](https://openwebinars.net/cert/i9K3)
 - [Documenta tu API REST con Open API 3.0](https://openwebinars.net/cert/ve9e)
 - [Testing unitario de tu aplicación con Spring Boot, JUnit y Mockito](https://openwebinars.net/cert/2Whg)
