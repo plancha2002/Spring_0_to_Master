@@ -1,0 +1,11 @@
+resilience4j:
+  timelimiter:
+    instances:
+      findAll1:
+        cancelRunningFuture: true
+        timeoutDuration: 7s
+      findAll2:
+        cancelRunningFuture: true
+        timeoutDuration: 2s
+
+

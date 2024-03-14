@@ -1,0 +1,2 @@
+spring.application.name=spring-timeout
+spring.mvc.async.request-timeout=6s
